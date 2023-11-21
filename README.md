@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SanskarBigBren
 - 👀 I’m interested in Java, HTML5, CSS3, JavaScript, React, SQL
 - 🌱 I’m currently learning Electronics and Telecommunication Engineering
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/sanskarkurmi29/
 
 <!---
