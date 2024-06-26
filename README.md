@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SanskarBigBren
-- 👀 I’m interested in Java, HTML5, CSS3, JavaScript, React, SQL
+- 👀 I practice coding in Java, HTML5, CSS3, JavaScript, React JS, SQL
 - 🌱 I’m currently learning Electronics and Telecommunication Engineering
 - 📫 How to reach me https://www.linkedin.com/in/sanskarkurmi29/
 
