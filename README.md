@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @SanskarBigBren
-- 👀 I practice coding in Java, HTML5, CSS3, JavaScript, React JS, SQL
-- 🌱 I’m currently learning Electronics and Telecommunication Engineering
+- 👋 Hi, I’m @SanskarKurmi
+- 👀 I practice coding in Java, HTML5, CSS3, JavaScript, React JS, MySQL
+- 🌱 I’ve recently graduated from Electronics and Telecommunication Engineering
 - 📫 How to reach me https://www.linkedin.com/in/sanskarkurmi29/
 
 <!---
